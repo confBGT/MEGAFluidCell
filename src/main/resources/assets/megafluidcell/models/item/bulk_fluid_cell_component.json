@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "megafluidcell:item/bulk_fluid_cell_component"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "megacells:bulk_cell_component"
+    }
+  ],
+  "result": {
+    "item": "megafluidcell:bulk_fluid_cell_component"
+  }
+}

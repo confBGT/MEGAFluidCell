@@ -1,0 +1,10 @@
+{
+  "gui.tooltips.megafluidcell.Contains": "Contains: %s",
+  "gui.tooltips.megafluidcell.Empty": "Empty",
+  "gui.tooltips.megafluidcell.MismatchedFilter": "Mismatched Filter!",
+  "gui.tooltips.megafluidcell.NotPartitioned": "Not Partitioned",
+  "gui.tooltips.megafluidcell.PartitionedFor": "Partitioned for: %s",
+  "gui.tooltips.megafluidcell.Quantity": "Quantity: %s",
+  "item.megafluidcell.bulk_fluid_cell": "MEGA Bulk Fluid Storage Cell",
+  "item.megafluidcell.bulk_fluid_cell_component": "MEGA Bulk Fluid Storage Component"
+}
