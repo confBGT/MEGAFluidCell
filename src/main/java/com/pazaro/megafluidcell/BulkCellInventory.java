@@ -138,6 +138,10 @@ public class BulkCellInventory implements StorageCell {
         var toExtract = unitCount.min(BigInteger.valueOf(amount));
         if (mode == Actionable.MODULATE) {
             unitCount = unitCount.subtract(toExtract);
+            if (unitCount.signum() == 0) {
+                storedFluid = null;
+            }
+
             saveChanges();
         }
     
